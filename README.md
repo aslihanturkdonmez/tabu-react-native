@@ -1,6 +1,6 @@
 # Tabu Oyunu /w React Native
 
-Tabu Oyununu çalıştırmak için projenin bulundupu dizinde
+Tabu Oyununu çalıştırmak için projenin bulunduğu dizinde
 
 IOS için
 
