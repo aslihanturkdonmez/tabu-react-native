@@ -13,6 +13,7 @@ react-native run-ios
 ANDROID için
 
 ```sh
+npm install
 react-native run-android
 ```
 komutu çalıştırılmalıdır.
