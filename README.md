@@ -16,5 +16,5 @@ ANDROID için
 npm install
 react-native run-android
 ```
-komutu çalıştırılmalıdır.
+komutları çalıştırılmalıdır.
 
